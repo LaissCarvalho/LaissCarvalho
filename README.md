@@ -13,8 +13,6 @@ A 15-year-old intern, passionate about programming, trained in ChatGPT and Googl
 
 ![Laah's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaissCarvalho&show_icons=true&theme=midnight-purple)
 
-i ❤️ "computaria" 
-
 ### Knowledge in: 
 <div style="display:inline_block"><br/>
    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
