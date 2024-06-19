@@ -10,6 +10,8 @@ A 15-year-old intern, passionate about programming, trained in ChatGPT and Googl
 
 
 ![Laah's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaissCarvalho&show_icons=true&theme=midnight-purple)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Knowledge in: 
 <div style="display:inline_block"><br/>
@@ -18,3 +20,5 @@ A 15-year-old intern, passionate about programming, trained in ChatGPT and Googl
    <img align="center" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
+
+
