@@ -6,7 +6,7 @@ A 15-year-old intern, passionate about programming, trained in ChatGPT and Googl
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Vq6wrVfXuv)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/HR5UBNYODIBNK1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/laispupocarvalho@gmail.com=pt-BR#inbox)
 
 
 ![Laah's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaissCarvalho&show_icons=true&theme=midnight-purple)
