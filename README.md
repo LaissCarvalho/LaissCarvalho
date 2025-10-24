@@ -2,8 +2,6 @@ Our greatest enemies are the ";" that we meet along the way...
 
 
 ## Hi there! i'm Laís Carvalho 👋
-I'm just a virus, wanting to escape, from the programmers of life...
-A 16-year-old intern, passionate about programming, trained in ChatGPT and Google, with the dream of one day achieving great things.
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199523846626)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Vq6wrVfXuv)
