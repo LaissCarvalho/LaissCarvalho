@@ -1,7 +1,7 @@
 Our greatest enemies are the ";" that we meet along the way...
 
-
 ## Hi there! i'm Laís Carvalho 👋
+I’m learning programming, and even though I’m not a professional yet, I really want to pursue a career in this field. I enjoy learning little by little, understanding how things work, and seeing my progress over time.
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199523846626)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Vq6wrVfXuv)
